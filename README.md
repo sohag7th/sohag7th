@@ -2,8 +2,7 @@
 <img src="./sohag.png" alt="Alt text" title="Optional title">
 <h2>MERN Stack Developer</h2>
 <p>
-I spend most of my time working in frontend web development which means I'm doing a lot of javascript programming.<br/>
-The end game for me is to constantly improve at creating data-driven user interfaces.
+I spend most of my time working in frontend web development which means I'm doing a lot of javascript programming. The end game for me is to constantly improve at creating data-driven user interfaces.
 </p>
 
 ### Who I Am?
