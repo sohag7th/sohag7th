@@ -25,8 +25,4 @@ const JV = {
 }
 ```
 
-### Here's some stats:
-
-[![Sohag's Github Stats](https://github-readme-stats.vercel.app/api?username=sohag-9065&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-![Sohag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohag-9065&theme=gruvbox&hide_border=true)
-![Sohag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohag-9065&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&card_width=445px)
+ 
